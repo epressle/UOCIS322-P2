@@ -3,7 +3,7 @@
 A "getting started with Docker" project that incorperates the same file checks as project 1, but with Flask and Docker.
 
 
-NOTE: This project requires Docker.
+NOTE: This project requires Docker.  
 NOTE 2: This project's docroot is web/pages/, and templates is web/templates/.
 
 ## Getting started
