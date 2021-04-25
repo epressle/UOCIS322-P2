@@ -18,7 +18,7 @@ NOTE 2: This project's docroot is web/pages/, and templates is web/templates/.
   ```
   docker run -d -p <someport>:5000 your-name-cis322-2
   ```
-NOTE: Make sure to specify a free port for <someport>.
+NOTE: Make sure to specify a free port for ```<someport>```.
 * Launch `http://hostname:<someport>` using your web browser and it should output "UOCIS docker demo!".
 
 * Stop the container using
