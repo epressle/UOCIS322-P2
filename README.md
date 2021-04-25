@@ -21,6 +21,12 @@ NOTE 2: This project's docroot is web/pages/, and templates is web/templates/.
 NOTE: Make sure to specify a free port for <someport>.
 * Launch `http://hostname:<someport>` using your web browser and it should output "UOCIS docker demo!".
 
+* Stop the container using
+
+  ```
+  docker stop <container-ID>
+  ```
+
 ## Tasks
 
 * The goal of this project is to implement the same "file checking" logic that you implemented in Project 1, but using Flask.
